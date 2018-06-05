@@ -1,7 +1,7 @@
 POP
 ===
 
-PopularCoin Version 1.0
+PopularCoin Version 1.0wer
 
 Scrypt Hybrid
 PoW/PoS
